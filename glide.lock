@@ -33,7 +33,7 @@ imports:
 - name: github.com/hashicorp/go-cleanhttp
   version: ad28ea4487f05916463e2423a55166280e8254b5
 - name: github.com/jdel/logspout-slack
-  version: 7d09187b302eae72c1613bd0d9acd8366669b122
+  version: c4cf513aa3443c422417149c79f5483b17b29ce9
 - name: github.com/nlopes/slack
   version: a22b9657ebc0b4948d7b3a13957c9b75aa55c54c
 - name: github.com/opencontainers/runc
