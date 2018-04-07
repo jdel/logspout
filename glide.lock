@@ -1,5 +1,5 @@
 hash: bdd2343f73f5c2d6330a4e9ee6cf33fd6429bb3ced14ea06ad256b3874c5cd98
-updated: 2018-04-07T16:35:11.043111+02:00
+updated: 2018-04-07T18:03:45.74543+02:00
 imports:
 - name: github.com/docker/docker
   version: ad969f1aa782478725a7f338cf963fa82f484609
@@ -33,7 +33,7 @@ imports:
 - name: github.com/hashicorp/go-cleanhttp
   version: ad28ea4487f05916463e2423a55166280e8254b5
 - name: github.com/jdel/logspout-slack
-  version: 54c72e6c22ec638b518576f774ee0c4d4b0a12b5
+  version: 7d09187b302eae72c1613bd0d9acd8366669b122
 - name: github.com/nlopes/slack
   version: a22b9657ebc0b4948d7b3a13957c9b75aa55c54c
 - name: github.com/opencontainers/runc
@@ -46,8 +46,6 @@ imports:
   vcs: git
 - name: github.com/sirupsen/logrus
   version: 778f2e774c725116edbc3d039dc0dfc1cc62aae8
-- name: github.com/YogaGlo/logspout-slack
-  version: 03e67ac8b313f6970778666ec039ba8b25fd9375
 - name: golang.org/x/crypto
   version: ca7e7f10cb9fd9c1a6ff7f60436c086d73714180
   subpackages:
